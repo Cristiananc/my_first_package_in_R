@@ -1,0 +1,5 @@
+^package\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+R/script.R
+^README\.Rmd$

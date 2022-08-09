@@ -1,0 +1,17 @@
+Package: package
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Cristiana", "Couto",
+           role = c("aut", "cre"),
+           email = "cristiananc@hotmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Making a test package in class to learn how we can create a package in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
